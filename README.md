@@ -4,7 +4,6 @@ A simple to-do list application that persists your tasks in the browser's localS
 
 ![ToDo-list Preview](todo.png)
 
-
 ## Features
 
 - Add new tasks
