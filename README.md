@@ -12,7 +12,6 @@ A simple to-do list application that persists your tasks in the browser's localS
 - Delete tasks
 - Clear all completed tasks
 - Task counter
-- Responsive design
 
 ## Live Demo
 
