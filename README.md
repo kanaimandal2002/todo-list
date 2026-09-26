@@ -10,8 +10,6 @@ A simple to-do list application that persists your tasks in the browser's localS
 - Mark tasks as complete
 - Filter tasks (All/Active/Completed)
 - Delete tasks
-- Clear all completed tasks
-
 ## Live Demo
 
 You can view a live version of this tool at [(https://kanaimandal2002.github.io/todo-list/)]
